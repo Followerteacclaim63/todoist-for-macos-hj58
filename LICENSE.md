@@ -1,4 +1,4 @@
-#  
+#  advanced Todoist for macOS Tool | voice notes + goal tracking is the best Todoist for macOS tool, featuring voice notes and goal tracking. Safe, efficient, and optimized for macOS
 
 
 
